@@ -9,3 +9,4 @@ export const returnWhatIPassInV2 = <TVal>(val: TVal) => {
 
 const result = returnWhatIPassIn("node");
 const result2 = returnWhatIPassInV2("node");
+//22.07
