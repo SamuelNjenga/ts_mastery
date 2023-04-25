@@ -3,6 +3,7 @@ export interface Letters {
   b: string;
   c: string;
 }
+
 export type LettersAsUnion = "a" | "b" | "c";
 
 const letter: LettersAsUnion = "a";
